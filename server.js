@@ -104,7 +104,7 @@ const client99 = new Discord.Client();
 const client100 = new Discord.Client();
 
 ///////
-client.login("ODI3NDA4MTU2MTQxMjg5NDcz.YGb2_w.roaCFkscNfQVNP-ekpuZ2rYdFHk");
+client.login("");
 client2.login("");
 client3.login("");
 client4.login("");
